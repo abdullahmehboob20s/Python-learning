@@ -1,0 +1,2 @@
+result = 98
+You guessed in 7 rounds

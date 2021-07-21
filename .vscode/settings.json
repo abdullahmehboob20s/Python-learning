@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Python39\\python.exe",
+  "python.formatting.provider": "yapf",
+  "python.analysis.extraPaths": ["./chapter-12-advanced-python"]
+}
